@@ -35,4 +35,4 @@ webhook.avatar_url = 'avatarurl'
 webhook.message = 'message'
 
 #sending message
-await webhook.send()
+webhook.send()
